@@ -1714,7 +1714,7 @@ cursor: pointer;
 }
 
 
-@media (min-width: 480px) and (max-width: 1024px){
+@media (min-width: 280px) and (max-width: 1024px){
   .headerstry{
     padding-top: 100px;
   }
