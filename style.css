@@ -166,7 +166,7 @@ body {
     flex: 1;
 }
 .mystry{
-    /* padding: 100px; */
+    padding: 100px;
 }
 
 .sliderwrapper{
@@ -1735,7 +1735,7 @@ width: 418px;
     gap: 15px;
 }
 .mystry{
-    padding: 100px;
+    padding: 0;
 }
  .masterchef{
         display: grid;
