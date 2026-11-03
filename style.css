@@ -20,6 +20,7 @@ body {
 }
     .mainhome{
         padding: 100px;
+        padding-bottom: 0px;
     }
 #navimg {
     width: 50px;
@@ -193,6 +194,9 @@ body {
     animation-direction: normal;
     animation-duration: 15s;
     animation-timing-function: linear; */
+    border-radius: 30px;
+    border: 1px solid #695623;
+    box-shadow: 2px 0px 10px #B8860B ;
     flex-shrink: 0;
     object-fit: cover;
    
